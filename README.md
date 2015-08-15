@@ -1,3 +1,3 @@
 onej-bell
 =========
-Pproject description
+Project description
