@@ -1,0 +1,34 @@
+{
+  "name": "webpack-typescript-react",
+  "version": "0.0.1",
+  "description": "Example setup with Webpack, Typescript and React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "sleep 10",
+    "build": "webpack -p"
+  },
+  "keywords": [
+    "webpcak",
+    "typescript",
+    "react",
+    "example"
+  ],
+  "author": "Vladyslav Kochin",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "latest",
+    "extract-text-webpack-plugin": "latest",
+    "file-loader": "latest",
+    "node-sass": "latest",
+    "sass-loader": "latest",
+    "style-loader": "latest",
+    "ts-loader": "latest",
+    "typescript": "latest",
+    "webpack": "latest"
+  },
+  "dependencies": {
+    "bourbon": "latest",
+    "font-awesome": "latest",
+    "react": "latest"
+  }
+}

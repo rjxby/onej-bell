@@ -1,2 +1,4 @@
 .idea
+/src/main/resources/static
+/src/main/resources/node_modules
 target
